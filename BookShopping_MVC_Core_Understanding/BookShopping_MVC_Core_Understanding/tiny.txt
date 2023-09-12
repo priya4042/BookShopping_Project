@@ -1,0 +1,8 @@
+ <script src="https://cdn.tiny.cloud/1/yceb7wqr2ps5v3vunieemb9syejgjl73j210uk6duakmo75e/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script>
+        tinymce.init({
+            selector: "textarea",
+            plugins: "lists",
+            menubar: "file edit format"
+        })
+    </script>

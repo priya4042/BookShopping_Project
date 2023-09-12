@@ -1,0 +1,11 @@
+E:\Asp.Net Core MVC\Blogger_Project\Blogs_Models\bin\Debug\net5.0\Blog_Models.deps.json
+E:\Asp.Net Core MVC\Blogger_Project\Blogs_Models\bin\Debug\net5.0\Blog_Models.dll
+E:\Asp.Net Core MVC\Blogger_Project\Blogs_Models\bin\Debug\net5.0\ref\Blog_Models.dll
+E:\Asp.Net Core MVC\Blogger_Project\Blogs_Models\bin\Debug\net5.0\Blog_Models.pdb
+E:\Asp.Net Core MVC\Blogger_Project\Blogs_Models\obj\Debug\net5.0\Blog_Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.Net Core MVC\Blogger_Project\Blogs_Models\obj\Debug\net5.0\Blog_Models.AssemblyInfoInputs.cache
+E:\Asp.Net Core MVC\Blogger_Project\Blogs_Models\obj\Debug\net5.0\Blog_Models.AssemblyInfo.cs
+E:\Asp.Net Core MVC\Blogger_Project\Blogs_Models\obj\Debug\net5.0\Blog_Models.csproj.CoreCompileInputs.cache
+E:\Asp.Net Core MVC\Blogger_Project\Blogs_Models\obj\Debug\net5.0\Blog_Models.dll
+E:\Asp.Net Core MVC\Blogger_Project\Blogs_Models\obj\Debug\net5.0\ref\Blog_Models.dll
+E:\Asp.Net Core MVC\Blogger_Project\Blogs_Models\obj\Debug\net5.0\Blog_Models.pdb

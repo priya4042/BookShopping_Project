@@ -1,0 +1,11 @@
+E:\Asp.Net Core MVC\BookShoppingProject.2\BookShoppingProject.Utility\bin\Debug\net5.0\BookShoppingProject.Utility.deps.json
+E:\Asp.Net Core MVC\BookShoppingProject.2\BookShoppingProject.Utility\bin\Debug\net5.0\BookShoppingProject.Utility.dll
+E:\Asp.Net Core MVC\BookShoppingProject.2\BookShoppingProject.Utility\bin\Debug\net5.0\ref\BookShoppingProject.Utility.dll
+E:\Asp.Net Core MVC\BookShoppingProject.2\BookShoppingProject.Utility\bin\Debug\net5.0\BookShoppingProject.Utility.pdb
+E:\Asp.Net Core MVC\BookShoppingProject.2\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.Net Core MVC\BookShoppingProject.2\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.AssemblyInfoInputs.cache
+E:\Asp.Net Core MVC\BookShoppingProject.2\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.AssemblyInfo.cs
+E:\Asp.Net Core MVC\BookShoppingProject.2\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.csproj.CoreCompileInputs.cache
+E:\Asp.Net Core MVC\BookShoppingProject.2\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.dll
+E:\Asp.Net Core MVC\BookShoppingProject.2\BookShoppingProject.Utility\obj\Debug\net5.0\ref\BookShoppingProject.Utility.dll
+E:\Asp.Net Core MVC\BookShoppingProject.2\BookShoppingProject.Utility\obj\Debug\net5.0\BookShoppingProject.Utility.pdb

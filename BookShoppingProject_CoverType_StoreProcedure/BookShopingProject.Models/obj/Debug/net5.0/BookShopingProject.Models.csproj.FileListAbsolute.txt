@@ -1,0 +1,11 @@
+E:\Asp.Net Core MVC\BookShoppingProject_CoverType_StoreProcedure\BookShopingProject.Models\bin\Debug\net5.0\BookShopingProject.Models.deps.json
+E:\Asp.Net Core MVC\BookShoppingProject_CoverType_StoreProcedure\BookShopingProject.Models\bin\Debug\net5.0\BookShopingProject.Models.dll
+E:\Asp.Net Core MVC\BookShoppingProject_CoverType_StoreProcedure\BookShopingProject.Models\bin\Debug\net5.0\ref\BookShopingProject.Models.dll
+E:\Asp.Net Core MVC\BookShoppingProject_CoverType_StoreProcedure\BookShopingProject.Models\bin\Debug\net5.0\BookShopingProject.Models.pdb
+E:\Asp.Net Core MVC\BookShoppingProject_CoverType_StoreProcedure\BookShopingProject.Models\obj\Debug\net5.0\BookShopingProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.Net Core MVC\BookShoppingProject_CoverType_StoreProcedure\BookShopingProject.Models\obj\Debug\net5.0\BookShopingProject.Models.AssemblyInfoInputs.cache
+E:\Asp.Net Core MVC\BookShoppingProject_CoverType_StoreProcedure\BookShopingProject.Models\obj\Debug\net5.0\BookShopingProject.Models.AssemblyInfo.cs
+E:\Asp.Net Core MVC\BookShoppingProject_CoverType_StoreProcedure\BookShopingProject.Models\obj\Debug\net5.0\BookShopingProject.Models.csproj.CoreCompileInputs.cache
+E:\Asp.Net Core MVC\BookShoppingProject_CoverType_StoreProcedure\BookShopingProject.Models\obj\Debug\net5.0\BookShopingProject.Models.dll
+E:\Asp.Net Core MVC\BookShoppingProject_CoverType_StoreProcedure\BookShopingProject.Models\obj\Debug\net5.0\ref\BookShopingProject.Models.dll
+E:\Asp.Net Core MVC\BookShoppingProject_CoverType_StoreProcedure\BookShopingProject.Models\obj\Debug\net5.0\BookShopingProject.Models.pdb

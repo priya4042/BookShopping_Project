@@ -1,0 +1,12 @@
+E:\Asp.Net Core MVC\BookShopping_MVC_Core_Understanding\Bookshopping.Models\bin\Debug\net5.0\Bookshopping.Models.deps.json
+E:\Asp.Net Core MVC\BookShopping_MVC_Core_Understanding\Bookshopping.Models\bin\Debug\net5.0\Bookshopping.Models.dll
+E:\Asp.Net Core MVC\BookShopping_MVC_Core_Understanding\Bookshopping.Models\bin\Debug\net5.0\ref\Bookshopping.Models.dll
+E:\Asp.Net Core MVC\BookShopping_MVC_Core_Understanding\Bookshopping.Models\bin\Debug\net5.0\Bookshopping.Models.pdb
+E:\Asp.Net Core MVC\BookShopping_MVC_Core_Understanding\Bookshopping.Models\obj\Debug\net5.0\Bookshopping.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.Net Core MVC\BookShopping_MVC_Core_Understanding\Bookshopping.Models\obj\Debug\net5.0\Bookshopping.Models.AssemblyInfoInputs.cache
+E:\Asp.Net Core MVC\BookShopping_MVC_Core_Understanding\Bookshopping.Models\obj\Debug\net5.0\Bookshopping.Models.AssemblyInfo.cs
+E:\Asp.Net Core MVC\BookShopping_MVC_Core_Understanding\Bookshopping.Models\obj\Debug\net5.0\Bookshopping.Models.csproj.CoreCompileInputs.cache
+E:\Asp.Net Core MVC\BookShopping_MVC_Core_Understanding\Bookshopping.Models\obj\Debug\net5.0\Bookshopping.Models.dll
+E:\Asp.Net Core MVC\BookShopping_MVC_Core_Understanding\Bookshopping.Models\obj\Debug\net5.0\ref\Bookshopping.Models.dll
+E:\Asp.Net Core MVC\BookShopping_MVC_Core_Understanding\Bookshopping.Models\obj\Debug\net5.0\Bookshopping.Models.pdb
+E:\Asp.Net Core MVC\BookShopping_MVC_Core_Understanding\Bookshopping.Models\obj\Debug\net5.0\Bookshopping.Models.csproj.AssemblyReference.cache

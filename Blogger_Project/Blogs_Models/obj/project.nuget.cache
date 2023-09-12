@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G1pWa/RmFa+ty9DwhuylPv+KH9jeZ/UOK5EUyioE2q5AZZS8zPeu3ZCckUy+1BnvAhlGGX6zDvlL8LhilNSifg==",
+  "success": true,
+  "projectFilePath": "E:\\Asp.Net Core MVC\\Blogger_Project\\Blogs_Models\\Blog_Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Priya\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Priya\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Priya\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
